@@ -1,0 +1,8 @@
+:root {
+    --plyr-color-main: #1ac266;
+}
+
+.plyr__video-embed iframe {
+    top: -50%;
+    height: 200%;
+}
